@@ -1,5 +1,5 @@
 <div align = "center">
-<a href="https://github.com/TXVIRUS/"><img align="center" alt="Php" height="150" width="150" src="https://raw.githubusercontent.com/TXVIRUS/TXVIRUS/main/logo.png"></a>
+<a href="https://github.com/TXVIRUS/"><img align="center" alt="Php" src="https://raw.githubusercontent.com/TXVIRUS/TXVIRUS/main/banner.png"></a>
 
 <h1>TOXIC-VIRUS</h1>
 </div>
