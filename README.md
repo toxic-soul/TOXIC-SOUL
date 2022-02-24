@@ -25,11 +25,11 @@
 <img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" width="25" height="25">  <a href = "mailto: akxvau@gmail.com">Send Email</a><br><br>
 </p><br>
 
-![AK27X stats](https://github-readme-stats.vercel.app/api?username=TXVIRUS&show_icons=true&theme=dark)
+![AK27X stats](https://github-readme-stats.vercel.app/api?username=TOXIC-SOUL&show_icons=true&theme=dark)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TXVIRUS&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TOXIC-SOUL&layout=compact&theme=dark)
 
 <br>
 
