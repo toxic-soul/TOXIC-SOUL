@@ -35,7 +35,7 @@
 
 ## TOTAL VIEW :
 
-![Visitor Count](https://profile-counter.glitch.me/TXVIRUS/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/TOXIC-SOUL/count.svg)
 
 <div>
 <li>Programming Skils</li><br>
