@@ -1,7 +1,7 @@
 <div align = "center">
 <a href="https://github.com/TXVIRUS/"><img weight="100% align="center" alt="Banner" src="https://raw.githubusercontent.com/TXVIRUS/TXVIRUS/main/banner.jpg"></a>
 
-<h1>TOXIC-VIRUS</h1>
+<h1>🔥Toאָic⌁SOUL🔥</h1>
 </div>
 
 <ul>
