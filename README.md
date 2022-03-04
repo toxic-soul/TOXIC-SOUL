@@ -17,7 +17,7 @@
    <a href="https://www.facebook.com/T0XICVIRUS" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/fb.png" alt="alt text" width="25" height="25"></a>
    <a href="http://txvirus.akxvau.ml" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/site.png" alt="alt text" width="25" height="25"></a>
    <a href="https://t.me/tx_soul"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/tg.png" alt="alt text" width="25" height="25"></a>
-<a href="mailto: akxvau@gmail.com"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" alt="alt text" width="25" height="25"></a>
+<a href="mailto: admin@toxicsoul.ml"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" alt="alt text" width="28" height="28"></a>
 
 </div>
 <hr>
