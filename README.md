@@ -1,5 +1,5 @@
 <div align = "center">
-<a href="https://github.com/TXVIRUS/"><img weight="100% align="center" alt="Banner" src="https://raw.githubusercontent.com/TXVIRUS/TXVIRUS/main/banner.jpg"></a>
+<a href="https://github.com/TXVIRUS/"><img weight="100% align="center" alt="Banner" src="https://raw.githubusercontent.com/TXVIRUS/TXVIRUS/main/bannerx.jpg"></a>
 
 <h1>🔥Toאָic⌁SOUL🔥</h1>
 </div>
@@ -16,7 +16,7 @@
 <br>
    <a href="https://www.facebook.com/T0XICVIRUS" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/fb.png" alt="alt text" width="25" height="25"></a>
    <a href="http://txvirus.akxvau.ml" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/site.png" alt="alt text" width="25" height="25"></a>
-   <a href="https://t.me/txvirus"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/tg.png" alt="alt text" width="25" height="25"></a>
+   <a href="https://t.me/tx_soul"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/tg.png" alt="alt text" width="25" height="25"></a>
 </a>
 </div>
 <hr>
