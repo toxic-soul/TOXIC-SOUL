@@ -17,13 +17,12 @@
    <a href="https://www.facebook.com/T0XICVIRUS" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/fb.png" alt="alt text" width="25" height="25"></a>
    <a href="http://txvirus.akxvau.ml" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/site.png" alt="alt text" width="25" height="25"></a>
    <a href="https://t.me/tx_soul"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/tg.png" alt="alt text" width="25" height="25"></a>
-</a>
+<a href="mailto: akxvau@gmail.com"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" alt="alt text" width="25" height="25"></a>
+
 </div>
 <hr>
 <div align="center">Contact With Me: <a href="https://facebook.com/AKXVAU"><b>Mohammad Alamin</a><br><br></div>
-<p align="center">
-<img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" width="25" height="25">  <a href = "mailto: akxvau@gmail.com">Send Email</a><br><br>
-</p><br>
+
 
 ![AK27X stats](https://github-readme-stats.vercel.app/api?username=TOXIC-SOUL&show_icons=true&theme=dark)
 
